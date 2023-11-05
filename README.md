@@ -8,4 +8,4 @@ Berikut ini merupakan keterangan dari setiap file pendukung eksperimen berjudul 
 4. file `AnalysisProgram.java` merupakan main program yang akan menghitung penggunaan memori (dalam bytes) dan waktu eksekusi (dalam milliseconds [ms]) dari
 kedua algoritma yang dilakukan pada eksperimen kali ini.
 5. file `*ukuran*_*status*.txt` merupakan file yang berisi datasets yang digunakan pada eksperimen ini.
-6. file `Grafik *memory*_*status*.jpg` dan `Grafik *time*_*status*` merupakan file pendukung yang dapat membantu visualisasi hasil eksperimen yang ada pada file laporan.
+
